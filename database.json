@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Jonathan",
+        "age": 27,
+        "ocupation":"Mamagallista"
+    },
+    {
+        "name":"Alex",
+        "age": 28,
+        "ocupation":"Prograstinador"
+    },
+    {
+        "name":"Juan",
+        "age":35,
+        "ocupation":"rasquimbolista"
+
+    },
+    {
+        "name":"Johana",
+        "age": 19,
+        "ocupation":"toxica"
+    }
+]
